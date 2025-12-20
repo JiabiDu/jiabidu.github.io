@@ -15,5 +15,5 @@ We study the physical and biogeochemical processes in coastal, shelf, and deep o
 Numerical models are the best tools for providing a synoptic view of three-dimensional physical processes to better understand what is happening in the ocean. They are powerful tools for integrating in-situ measurements and remote sensing data in a mathematics-based three-dimensional world. Numerical models are also the only way we can predict future conditions and do large-scale experiments on our planet. 
 
 ## Why Marine Robots?
-![robot deployment](/images/robot_deployment.jpeg)
+![robot deployment](/movies/robot01.mp4)
 Reliable scientific findings depend on consistent observation. Marine robots are becoming the essential tools for exploring our oceans, particularly during extreme weather events like hurricanes. While traditional survey vessels are often restricted by dangerous conditions, autonomous aquatic vehicles can continue their missions. Step by step, our lab is engineering cost-efficient, versatile robots designed to transform the future of coastal water surveys.
