@@ -19,9 +19,6 @@ main:
 
   - title: "Products"
     url: /products/      
-        
-  - title: "Resources"
-    url: /resources/
     
   - title: "People"
     url: /people/
