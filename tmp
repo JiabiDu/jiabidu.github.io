@@ -1,0 +1,31 @@
+#### for carousel in about.html
+
+<div id="homeCarousel" class="carousel slide" data-bs-ride="carousel">
+
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="2"></button>
+  </div>
+
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/images/run19q3_SSS2.gif" class="d-block h-100" alt="Salinity animation">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/ptrack_galveston_d31.gif" class="d-block h-100" alt="Particle trackign animation">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/robot_deployment.jpeg" class="d-block h-100" alt="marine robot deployment">
+    </div>
+  </div>
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#homeCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#homeCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+</div>
+
+
