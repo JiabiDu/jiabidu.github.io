@@ -29,15 +29,10 @@ author_profile: false
 
 <hr>
 
-<div style="width: 100%;">
-  <h2>Why Numerical Modeling?</h2>
-  <img src="/images/ptrack_galveston_d31.gif" alt="particle tracking" style="width: 100%; border-radius: 12px; margin-bottom: 10px;">
-  <p>Numerical models are the most effective tools for providing a synoptic, three-dimensional view of oceanographic processes.</p>
+## Why Numerical Modeling? 
+![particle tracking simulations](/images/ptrack_galveston_d31.gif)
+Numerical models are the most effective tools for providing a synoptic, three-dimensional view of oceanographic processes. They allow us to integrate sparse in-situ measurements and satellite data into a mathematically consistent 3D environment. Furthermore, numerical models are the only means by which we can predict future conditions and conduct large-scale "what-if" experiments to understand our changing planet.
 
-  <h2>Why Marine Robots?</h2>
-  <p>Reliable scientific discovery depends on consistent observation. Marine robots are becoming essential for exploring our oceans, particularly during extreme weather events.</p>
-  <video width="100%" height="auto" controls loop muted playsinline style="border-radius: 12px; margin-bottom: 10px;">
-    <source src="/movies/robot01.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+## Why Marine Robots?
+![robot deployment](/movies/robot01.mp4)
+Reliable scientific discovery depends on consistent observation. Marine robots are becoming essential for exploring our oceans, particularly during extreme weather events like hurricanes when conditions are too dangerous for traditional research vessels. Our lab is engineering cost-efficient, versatile autonomous vehicles designed to transform the future of coastal water surveys and ensure data continuity in the harshest environments.
