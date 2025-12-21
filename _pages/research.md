@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Directions (click for more details)"
 layout: single
 permalink: /research/
 author_profile: false
@@ -11,36 +11,83 @@ toc_icon: "flask"
 toc_sticky: true
 ---
 
-## Coastal and estuarine dynamics
-The physical dynamics is the fundamental process for sediment transport, pollutant dispersion, and ecosystem. Coastal and estuarine dynamics involve a variety of processes as the coastal ocean is impacted by tides, freshwater input, and atmospheric forcings. Because of notable freshwater input, coastal and estuarine waters are typically characterized by a strong salinity gradient that drives bottom water to move from high salinity to low salinity. 
-![coastal dynamics](/images/CoastalDynamics.jpeg)
-(Figure source: Danial Khojasteh et al. 2021)
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-bottom: 50px; margin-top: 20px;">
+  <div style="width: 30%; margin-bottom: 10px; text-align: center;">
+    <a href="/research/ocean_model_development/" style="text-decoration: none;">
+      <div style="width: 100%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px;">
+        <img src="/images/model_development.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      </div>
+      <div style="margin-top: 10px; color: black; font-weight: bold; font-size: 1.2rem;">
+        Ocean Model Development
+      </div>
+    </a>
+  </div>
 
-In this lab, we tried to understand how the coastal and estuarine processes respond to different forcings, changing climates, sea-level rise, and extreme weather events.
+  <div style="width: 30%; margin-bottom: 10px; text-align: center;">
+    <a href="/research/coastal_dynamics/" style="text-decoration: none;">
+      <div style="width: 100%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px;">
+        <img src="/images/coastal_dynamics.png" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      </div>
+      <div style="margin-top: 10px; color: black; font-weight: bold; font-size: 1.2rem;">
+        Coastal Dynamics
+      </div>
+    </a>
+  </div>
 
-## Interaction between deep, shelf, and coastal oceans 
-Because of different densities, different parts of the ocean are dynamically separated. However, cross-exchange between shelf and deep ocean and between estuaries and shelf ocean occurs all the time and could be strongly intensified under certain conditions. For instance, upwelling could happen in the western Gulf of Mexico during summer when the wind blows to the upcoast (from Mexico to the Texas coast). When Loop Current Eddies (shed from Loop Current, part of Gulf Stream) pinches onto the shelf break, it will shed out warm water and impact the baroclinic stability at the shelf break, leading to acute cross-shelf exchange. Moving to the inner shelf, the cross-shelf exchange is even more dynamic because of the velocity shear between the inner and outer shelf current. 
+  <div style="width: 30%; margin-bottom: 10px; text-align: center;">
+    <a href="/research/deep_ocean_dynamics/" style="text-decoration: none;">
+      <div style="width: 100%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px;">
+        <img src="/images/mom6.png" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      </div>
+      <div style="margin-top: 10px; color: black; font-weight: bold; font-size: 1.2rem; line-height: 1.3;">
+        Deep Ocean Dynamics
+      </div>
+    </a>
+  </div>
 
-How does a warming climate impact the cross-shelf exchange?
+  <div style="width: 30%; margin-bottom: 10px; text-align: center;">
+    <a href="/research/water_quality/" style="text-decoration: none;">
+      <div style="width: 100%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px;">
+        <img src="/images/coastal_hypoxia.png" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      </div>
+      <div style="margin-top: 10px; color: black; font-weight: bold; font-size: 1.2rem;">
+        Water Quality: Hypoxia
+      </div>
+    </a>
+  </div>
 
-How does such change impact the coastal materials, such as nutrients, pollutants, and sediments? 
+  <div style="width: 30%; margin-bottom: 10px; text-align: center;">
+    <a href="/research/pollutant/" style="text-decoration: none;">
+      <div style="width: 100%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px;">
+        <img src="/images/pollutant_transport.png" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      </div>
+      <div style="margin-top: 10px; color: black; font-weight: bold; font-size: 1.2rem;">
+        Pollutant & Larvae Transport
+      </div>
+    </a>
+  </div>
 
-## Coastal pollutant dispersion
-The release of coastal pollutants such as excessive nutrients, microplastic, petrochemical compounds, and mercury affects the water quality and ecosystem. Their transport and fate are largely controlled by fundamental physical dynamics and biogeochemical properties. Pollutants are typically treated as particles and their transports is simulated by coupling a particle tracking model with a hydrodynamics model. Our team is actively developing the particle tracking model (available at https://github.com/JiabiDu/ptrack_schism), which can be used for not only pollutants but also harmful algal bloom and fish larvae. 
-![harvey_pollutant](/images/particle_tracking_harvey.gif)
+  <div style="width: 30%; margin-bottom: 10px; text-align: center;">
+    <a href="/research/marine_robot/" style="text-decoration: none;">
+      <div style="width: 100%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px;">
+        <img src="/images/robot_deployment.jpeg" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+      </div>
+      <div style="margin-top: 10px; color: black; font-weight: bold; font-size: 1.2rem;">
+        Marine Robot Development
+      </div>
+    </a>
+  </div>
+</div>
 
+# Highlighted Studies
 
-## Coastal flooding 
-Flooding is a major concern for coastal communities. Flooding risk is elevated with sea level rise and more intense precipitation events. Flooding can be induced by multiple processes, including tide, storm surge, freshwater runoff, and precipitation. We refer the flooding induced by multiple processes as compound flooding. Simulating compound flooding in a numerical model faces a number of challenges including 1) computational efficiency when adding a lot of grid cell on low-lying land; 2) blockage of small river/creek channels with traditional mesh that use a constant resolution on the land; 3) the interaction between tide and river runoff; and 4) the baroclinic impact from deep ocean dynamics.  
-![flooding](/images/flooding.jpg)
-(Figure source: Huang et al. 2024)
+## Flushing Times for 13 Coastal Bays in the Northern Gulf of Mexico (Du et al. 2026)
+Flushing time is a critical transport timescale used to quantify the renewal of water within coastal systems. Currently, systematic estimates of flushing times for most coastal bays in the Northern Gulf of Mexico are lacking. To address this, we conducted over 9,000 model simulations to generate a 20-year time series (2000–2019) of flushing times for 13 major coastal bays in the region.
 
-## Biogeochemical processes and water quality
-Biogeochemical modeling for coastal waters involves the use of mathematical and computational tools to simulate the interactions between biological, chemical, and physical processes in coastal ecosystems. These models help scientists understand and predict how nutrients, organic matter, and pollutants cycle through coastal environments, which can include estuaries, lagoons, and coastal shelves.
-![bgc](/images/biogeochemical.jpg)
+<a href="/research/highlight-study-01/" class="btn btn--info">View Study Details</a>
+<a href="https://link.springer.com/article/10.1007/s12237-025-01648-4" class="btn btn--info">Read the Paper</a>
 
-The primary components of biogeochemical models include:
-* **Biological Processes**: These include the growth and decay of phytoplankton, zooplankton, and other organisms, as well as their interactions with each other and their environments.
-* **Chemical Processes**: This covers the transformation and movement of nutrients (like nitrogen and phosphorus), oxygen, and other chemical substances within the water and sediments.
-* **Physical Processes**: This involves the movement of water (e.g., currents, tides) and its effects on the distribution and mixing of biological and chemical components.
-By integrating these processes, biogeochemical models can provide insights into phenomena such as algal blooms, oxygen depletion, and the impacts of human activities (like agriculture and pollution) on coastal health. They are valuable tools for managing coastal resources, predicting environmental changes, and supporting sustainable development in these critical areas. 
+## The Role of Shelf-Wide Circulation on Coastal Flushing Time (Hua et al. 2025)
+While coastal flushing is primarily driven by river discharge, tides, and local circulation, deep-ocean dynamics—specifically shelf-wide circulation—can significantly influence how efficiently exiting water is transported away from bay mouths. This study investigates how model grid resolution affects the representation of shelf-wide circulation and, consequently, its impact on calculated flushing times.
+
+<a href="https://www.sciencedirect.com/science/article/pii/S1463500325001064?via%3Dihub" class="btn btn--info">Read the Paper</a>

@@ -19,6 +19,8 @@ author_profile: false
 
 <hr>
 
+## Graduate Students
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/people/Junwei_Hua.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
@@ -49,11 +51,25 @@ author_profile: false
   </div>
   <div style="flex: 1;">
     <h3>Sandra Manulat</h3>
-    <strong>PhD student</strong><br>
+    <strong>PhD student (Co-advised with Dr. Ping Chang)</strong><br>
 	<br> <strong>Research Interests: </strong> coastal ocean modeling; long-term sea level variations; air-sea interactions
 	<br><a href="mailto:ccsmanulat@tamu.edu">Email: ccsmanulat@tamu.edu</a>
   </div>
 </div>
+
+## Undergraduate Students
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Sofia_McGreger.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Sofia McGreger</h3>
+    <strong>Major: MARS</strong><br>
+	<br> <strong>Study Interests: </strong> marine robots, water quality, ocean modeling, sea level rise, flooding
+	<br><a href="mailto: sofiamcgreger@tamu.edu">Email:  sofiamcgreger@tamu.edu</a>
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
@@ -61,7 +77,7 @@ author_profile: false
   </div>
   <div style="flex: 1;">
     <h3>McKinsey McClure</h3>
-    <strong>Undergraduate student</strong><br>
+    <strong>Major: MARS</strong><br>
 	<br> <strong>Research Interests: </strong> marine heat wave
 	<br><a href="mailto:mckinsey.mcclure@tamu.edu">Email: mckinsey.mcclure@tamu.edu</a>
   </div>

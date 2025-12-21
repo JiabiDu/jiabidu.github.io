@@ -1,0 +1,88 @@
+#### for carousel in about.html
+
+<div id="homeCarousel" class="carousel slide" data-bs-ride="carousel">
+
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#homeCarousel" data-bs-slide-to="2"></button>
+  </div>
+
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="/images/run19q3_SSS2.gif" class="d-block h-100" alt="Salinity animation">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/ptrack_galveston_d31.gif" class="d-block h-100" alt="Particle trackign animation">
+    </div>
+    <div class="carousel-item">
+      <img src="/images/robot_deployment.jpeg" class="d-block h-100" alt="marine robot deployment">
+    </div>
+  </div>
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#homeCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#homeCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+</div>
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 50px;">
+  
+  <div style="position: relative; width: 48%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px; margin-bottom: 5px;">
+    <a href="/research/highlight-study-01/">
+      <img src="/images/model_development.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block; filter: brightness(60%);">
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 95%; text-align: center; color: white; font-weight: bold; font-size: 1.5rem; text-shadow: 2px 2px 4px rgba(1, 0, 0, 0.8);">
+        Ocean Model Development
+      </div>
+    </a>
+  </div>
+
+  <div style="position: relative; width: 48%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px; margin-bottom: 5px;">
+    <a href="/research/highlight-pollutants/">
+      <img src="/images/coastal_dynamics.png" style="width: 100%; height: 100%; object-fit: cover; display: block; filter: brightness(60%);">
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 95%; text-align: center; color: white; font-weight: bold; font-size: 1.5rem; text-shadow: 2px 2px 4px rgba(1, 0, 0, 0.8);">
+        Coastal Dynamics
+      </div>
+    </a>
+  </div>
+
+  <div style="position: relative; width: 48%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px; margin-bottom: 5px;">
+    <a href="/research/highlight-sediment/">
+      <img src="/images/gom_heatwave_cluster1.png" style="width: 100%; height: 100%; object-fit: cover; display: block; filter: brightness(60%);">
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 95%; text-align: center; color: white; font-weight: bold; font-size: 1.3rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
+        Deep Ocean Dynamics: marine heat wave, mesoscale eddies
+      </div>
+    </a>
+  </div>
+
+  <div style="position: relative; width: 48%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px; margin-bottom: 5px;">
+    <a href="/research/highlight-hypoxia/">
+      <img src="/images/coastal_hypoxia.png" style="width: 100%; height: 100%; object-fit: cover; display: block; filter: brightness(80%);">
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 95%; text-align: center; color: white; font-weight: bold; font-size: 1.3rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
+        Water Quality: hypoxia
+      </div>
+    </a>
+  </div>
+
+  <div style="position: relative; width: 48%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px; margin-bottom: 5px;">
+    <a href="/research/highlight-heatwave/">
+      <img src="/images/pollutant_transport.png" style="width: 100%; height: 100%; object-fit: cover; display: block; filter: brightness(60%);">
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 95%; text-align: center; color: white; font-weight: bold; font-size: 1.3rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
+        Pollutant/Fish Larvae Transport
+      </div>
+    </a>
+  </div>
+
+  <div style="position: relative; width: 48%; aspect-ratio: 2 / 1; overflow: hidden; border-radius: 12px; margin-bottom: 5px;">
+    <a href="/research/highlight-eddies/">
+      <img src="/images/robot_deployment.jpeg" style="width: 100%; height: 100%; object-fit: cover; display: block; filter: brightness(80%);">
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 95%; text-align: center; color: white; font-weight: bold; font-size: 1.3rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">
+        Marine Robot Development
+      </div>
+    </a>
+  </div>
+
+</div>
