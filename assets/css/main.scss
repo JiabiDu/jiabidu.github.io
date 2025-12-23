@@ -91,3 +91,7 @@ $max-width: 1400px;
   border-radius: 15px;
   margin-bottom: 1.5em;
 }
+
+.masthead__inner-wrap {
+  padding-left: 6em; /* Increase this number slightly to "nudge" the shorter name to the right */
+}
