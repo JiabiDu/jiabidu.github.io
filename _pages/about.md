@@ -1,18 +1,19 @@
 ---
 permalink: /
-title: "Welcome to the Coastal Ocean & Robotics Lab"
+title: "Welcome to the Ocean Circulation & Robotics Lab"
 author_profile: false
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-bottom: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
 
-  <div style="flex: 2; min-width: 300px;">
-    <h2>We develop and use advanced technologies to explore the frontiers of ocean science!</h2>
+  <div style="flex: 3; min-width: 350px;">
+    <h2>Our mission: we develop and use advanced technologies to explore the frontiers of ocean science!</h2>
     <p>We study the physical and biogeochemical processes in coastal, shelf, and deep oceans. Our work integrates long-term monitoring data with multi-scale modeling systems to capture critical interactions between the climate and the ocean.</p>
-    <p>As the climate changes and extreme weather events become more frequent, the resiliency of coastal ecosystems and communities is increasingly threatened. Our lab investigates how these climate events reshape coastal ocean dynamics, linking physical processes to pressing environmental issues.</p>
+    <p>As the climate changes and extreme weather events become more frequent, the resiliency of coastal ecosystems and communities is increasingly threatened. Our lab investigates how these climate events reshape coastal ocean dynamics, linking physical processes to pressing environmental issues such as marine heat wave, coastal hypoxia, and microplastic pollution.</p>
+    <p> Our research integrates long-term monitoring data with advanced ocean modeling and observational techniques. Beyond applying these technologies, we actively develop and innovate new tools for the field. </p>
   </div>
 
-  <div style="flex: 1; min-width: 250px; background-color: #f8f9fa; border-radius: 12px; padding: 20px; border-left: 4px solid #004a99;">
+  <div style="flex: 1; min-width: 280px; background-color: #f8f9fa; border-radius: 12px; padding: 20px; border-left: 4px solid #004a99;">
     <h3 style="margin-top: 0; border-bottom: 2px solid #004a99; padding-bottom: 5px;">
       <i class="fas fa-rss"></i> Latest News
     </h3>
@@ -27,7 +28,6 @@ author_profile: false
   </div>
 </div>
 
-<hr>
 
 ## Why Numerical Modeling? 
 ![particle tracking simulations](/images/ptrack_galveston_d31.gif)

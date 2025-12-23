@@ -67,3 +67,27 @@
   height: 100%;
   object-fit: cover;      /* key line */
 }
+
+/* --- Increase Website Width --- */
+
+/* 1. This controls the main content container */
+$max-width: 1400px; 
+
+/* 2. Override the theme's built-in breakpoints */
+.archive, .page, .home {
+  max-width: 1400px !important; /* Adjust this number to your liking */
+  width: 95% !important;        /* Leaves a small margin on the edges */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 3. Ensure the inner content area uses the new width */
+#main {
+  max-width: 1400px !important;
+}
+
+/* Make all images in posts and pages rounded */
+.page__content img {
+  border-radius: 15px;
+  margin-bottom: 1.5em;
+}
