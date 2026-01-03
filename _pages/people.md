@@ -60,7 +60,19 @@ author_profile: false
 ## Undergraduate Students
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/people/Sofia_McGreger.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+    <img src="/images/people/Alex_Han.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Alex Han</h3>
+    <strong>Major: ELEN</strong><br>
+	<br> <strong>Study Interests: </strong> circuit design, marine robotics, water quality, robotics design
+	<br><a href="mailto: alexhan@tamu.edu">Email:  alexhan@tamu.edu</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Sofia_McGreger.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3>Sofia McGreger</h3>
@@ -73,7 +85,7 @@ author_profile: false
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/people/McKinsey_McClure.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+    <img src="/images/people/McKinsey_McClure.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3>McKinsey McClure</h3>
