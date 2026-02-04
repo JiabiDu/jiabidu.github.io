@@ -72,6 +72,30 @@ author_profile: false
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Allen_Sundia.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Allen Sundia</h3>
+    <strong>Major: Mechanical Engineering</strong><br>
+	<br> <strong>Study Interests: </strong> additive manufacturing, automation, computer-aided design, & programming
+	<br><a href="mailto: a75@email.tamu.edu">Email:  a75@email.tamu.edu</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Miguel_Marcano.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Miguel Marcano</h3>
+    <strong>Major: Mechanical Engineering</strong><br>
+	<br> <strong>Study Interests: </strong> programming, robotics, aerospace, vehicles
+	<br><a href="mailto: miguelworkacct06@tamu.edu">Email:  miguelworkacct06@tamu.edu</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/people/Sofia_McGreger.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
