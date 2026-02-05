@@ -65,7 +65,7 @@ author_profile: false
   <div style="flex: 1;">
     <h3>Alex Han</h3>
     <strong>Major: ELEN</strong><br>
-	<br> <strong>Study Interests: </strong> circuit design, marine robotics, water quality, robotics design
+	<br> <strong>Study Interests: </strong> circuit design, marine robotics, water quality, &robotics design
 	<br><a href="mailto: alexhan@tamu.edu">Email:  alexhan@tamu.edu</a>
   </div>
 </div>
@@ -96,12 +96,24 @@ author_profile: false
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Luis_Jancowski.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Luis Jancowski</h3>
+    <strong>Major: Aerospace Engineering</strong><br>
+	<br> <strong>Study Interests: </strong> aeronautics, programming, automation, &control systems
+	<br><a href="mailto: luis-jan@tamu.edu">Email:  luis-jan@tamu.edu</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/people/Sofia_McGreger.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3>Sofia McGreger</h3>
     <strong>Major: MARS</strong><br>
-	<br> <strong>Study Interests: </strong> marine robots, water quality, ocean modeling, sea level rise, flooding
+	<br> <strong>Study Interests: </strong> marine robots, water quality, ocean modeling, &sea level rise, flooding
 	<br><a href="mailto: sofiamcgreger@tamu.edu">Email:  sofiamcgreger@tamu.edu</a>
   </div>
 </div>
