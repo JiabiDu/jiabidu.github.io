@@ -37,11 +37,11 @@ The development process follows a rigorous "step-by-step" testing protocol, movi
 
 ## 03. Field Deployments
 ### Galveston Channel (December 12, 2025)
-Following a period of heavy rain, we successfully deployed the robot in the Galveston Channel. Despite challenging current conditions, the robot autonomously navigated a cross-channel path of approximately 800 meters, demonstrating its reliability in high-traffic, high-energy environments.
+Following a period of heavy rain, we successfully deployed the robot in the Galveston Channel. Despite challenging current conditions, the robot autonomously navigated a cross-channel path of approximately 800 meters, demonstrating its autonomous capacity in real oceanic environments.
 ![](/movies/test_20251212.mp4)
 
 ### Shell Beach (November 06, 2025)
-Our first near-shore beach test focused on path-following precision. The robot was tasked with following a complex multi-waypoint trajectory to evaluate its response to wave action and shallow-water bathymetry.
+Our first near-shore beach test focused on path-following precision. The robot was tasked with following a complex multi-waypoint trajectory.
 
 ![](/images/robot_20251106_shell_beach.png)
 *Figure 1: (a) Distance to next stop; (b) yaw error between robot's yaw and target yaw; (c) current yaw; (d) yaw correction based on GPS reading.*
