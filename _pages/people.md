@@ -119,6 +119,7 @@ author_profile: false
 </div>
 
 
+## Alumni
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/people/McKinsey_McClure.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
@@ -126,13 +127,11 @@ author_profile: false
   <div style="flex: 1;">
     <h3>McKinsey McClure</h3>
     <strong>Major: MARS</strong><br>
-	<br> <strong>Research Interests: </strong> marine heat wave
-	<br><a href="mailto:mckinsey.mcclure@tamu.edu">Email: mckinsey.mcclure@tamu.edu</a>
+        <br> <strong>Research Interests: </strong> marine heat wave
+        <br><a href="mailto:mckinsey.mcclure@tamu.edu">Email: mckinsey.mcclure@tamu.edu</a>
   </div>
 </div>
 
-
-## Alumni
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/people/Emily_Summers.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
