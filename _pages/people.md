@@ -87,7 +87,7 @@ author_profile: false
     <img src="/images/people/Miguel_Marcano.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
-    <h3>Miguel Marcano</h3>
+    <h3>Miguel Cabrera Marcano</h3>
     <strong>Major: Mechanical Engineering</strong><br>
 	<br> <strong>Study Interests: </strong> programming, robotics, aerospace, vehicles
 	<br><a href="mailto: miguelworkacct06@tamu.edu">Email:  miguelworkacct06@tamu.edu</a>
