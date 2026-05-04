@@ -19,6 +19,20 @@ author_profile: false
 
 <hr>
 
+## Postdoc
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Haodong_Xu.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Haodong Xu</h3>
+    <strong>Postdoc Research Associate</strong><br>
+	<br> <strong>Research Interests: </strong>transport of coastal pollutant; ocean modeling
+	<br><a href="mailto:hxu@tamu.edu">Email: hxu@tamu.edu</a>
+  </div>
+</div>
+
 ## Graduate Students
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
