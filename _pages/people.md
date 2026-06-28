@@ -23,13 +23,25 @@ author_profile: false
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/people/Haodong_Xu.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+    <img src="/images/people/Haodong_Xu.jpg" alt="Postdoc" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3>Haodong Xu</h3>
     <strong>Postdoc Research Associate</strong><br>
 	<br> <strong>Research Interests: </strong>transport of coastal pollutant; ocean modeling
 	<br><a href="mailto:hxu@tamu.edu">Email: hxu@tamu.edu</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Yoonho_Jung.jpg" alt="Postdoc" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Yoonho Jung</h3>
+    <strong>Postdoc Research Associate</strong><br>
+	<br> <strong>Research Interests: </strong>ocean modeling; coastal flooding; ocean dynamics
+	<br><a href="mailto:yoonho@tamu.edu">Email: yoonho@tamu.edu</a>
   </div>
 </div>
 
@@ -140,9 +152,10 @@ author_profile: false
   </div>
   <div style="flex: 1;">
     <h3>McKinsey McClure</h3>
+    <strong>Year in the lab: 2024-2025 </strong><br>
     <strong>Major: MARS</strong><br>
-        <br> <strong>Research Interests: </strong> marine heat wave
-        <br><a href="mailto:mckinsey.mcclure@tamu.edu">Email: mckinsey.mcclure@tamu.edu</a>
+    <br> <strong>Research Interests: </strong> marine heat wave
+    <br><a href="mailto:mckinsey.mcclure@tamu.edu">Email: mckinsey.mcclure@tamu.edu</a>
   </div>
 </div>
 
@@ -152,6 +165,7 @@ author_profile: false
   </div>
   <div style="flex: 1;">
     <h3>Emily Summers </h3>
+    <strong>Year in the lab: 2023-2024 </strong><br>
     <strong>PhD student, Graduate in May 2024</strong><br>
 	<br> <strong>Research Interests: </strong> microplastic; coastal pollutant; particle tracking model
 	<br><a href="mailto:emilyjane1215@tamu.edu">Email: emilyjane1215@tamu.edu</a>
