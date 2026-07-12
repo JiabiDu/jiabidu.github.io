@@ -1,0 +1,12 @@
+# How to check the website locally?
+In terminal
+>> bundle exec jekyll serve    
+Website can be open at 
+http://localhost:4000   
+
+if the bundle has not been installed, use following commands to install
+>> brew install ruby
+>> echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
+>> source ~/.zshrc
+>> gem install bundler jekyll
+>> bundle install

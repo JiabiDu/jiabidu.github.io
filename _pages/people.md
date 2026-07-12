@@ -150,20 +150,6 @@ author_profile: false
   </div>
 </div>
 
-## Undergraduate Students
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/people/Luis_Jancowski.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
-  </div>
-  <div style="flex: 1;">
-    <h3>Luis Jancowski</h3>
-    <strong>Major: Aerospace Engineering</strong><br>
-	<br> <strong>Study Interests: </strong> aeronautics, programming, automation, &control systems
-	<br><a href="mailto: luis-jan@tamu.edu">Email:  luis-jan@tamu.edu</a>
-  </div>
-</div>
-
-
 ## Alumni
 ### Graduate Students
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
@@ -180,16 +166,17 @@ author_profile: false
 </div>
 
 ### Undergraduate Students
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/people/McKinsey_McClure.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+    <img src="/images/people/Luis_Jancowski.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
-    <h3>McKinsey McClure</h3>
-    <strong>Year in the lab: 2024-2025 </strong><br>
-    <strong>Major: MARS</strong><br>
-    <br> <strong>Research Interests: </strong> marine heat wave
-    <br><a href="mailto:mckinsey.mcclure@tamu.edu">Email: mckinsey.mcclure@tamu.edu</a>
+    <h3>Luis Jancowski</h3>
+    <strong>Year in the lab: 2025-2026 </strong><br>
+    <strong>Major: Aerospace Engineering</strong><br>
+	<br> <strong>Study Interests: </strong> aeronautics, programming, automation, &control systems
+	<br><a href="mailto: luis-jan@tamu.edu">Email:  luis-jan@tamu.edu</a>
   </div>
 </div>
 
@@ -205,3 +192,17 @@ author_profile: false
 	<br><a href="mailto: sofiamcgreger@tamu.edu">Email:  sofiamcgreger@tamu.edu</a>
   </div>
 </div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/McKinsey_McClure.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>McKinsey McClure</h3>
+    <strong>Year in the lab: 2024-2025 </strong><br>
+    <strong>Major: MARS</strong><br>
+    <br> <strong>Research Interests: </strong> marine heat wave
+    <br><a href="mailto:mckinsey.mcclure@tamu.edu">Email: mckinsey.mcclure@tamu.edu</a>
+  </div>
+</div>
+
