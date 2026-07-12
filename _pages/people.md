@@ -83,14 +83,42 @@ author_profile: false
   </div>
 </div>
 
-## Undergraduate Students
+## Summer Interns
+## Summer of 2026
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Michao_Shao.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Michael Shao</h3>
+    <strong>Graduate Student</strong><br>
+    <strong>Major: ocean engineering</strong><br>
+	<br> <strong>Research Interests: </strong> marine robotics, ocean engineering
+	<br><a href="mailto:syf02-416@tamu.edu">Email: syf02-416@tamu.edu</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/people/Ruiqi_Li.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3>Ruiqi Li</h3>
+    <strong>Graduate Student</strong><br>
+    <strong>Major: ocean engineering </strong><br>
+	<br> <strong>Research Interests: </strong> marine robotics, ocean engineering
+	<br><a href="mailto:rqli329@tamu.edu">Email: rqli329@tamu.edu</a>
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/people/Alex_Han.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3>Alex Han</h3>
-    <strong>Major: ELEN</strong><br>
+    <strong>Undergraduate Student</strong><br>
+    <strong>Major: Electrical Engineering </strong><br>
 	<br> <strong>Study Interests: </strong> circuit design, marine robotics, water quality, &robotics design
 	<br><a href="mailto: alexhan@tamu.edu">Email:  alexhan@tamu.edu</a>
   </div>
@@ -102,6 +130,7 @@ author_profile: false
   </div>
   <div style="flex: 1;">
     <h3>Allen Sundia</h3>
+    <strong>Undergraduate Student</strong><br>
     <strong>Major: Mechanical Engineering</strong><br>
 	<br> <strong>Study Interests: </strong> additive manufacturing, automation, computer-aided design, & programming
 	<br><a href="mailto: a75@email.tamu.edu">Email:  a75@email.tamu.edu</a>
@@ -114,12 +143,14 @@ author_profile: false
   </div>
   <div style="flex: 1;">
     <h3>Miguel Cabrera Marcano</h3>
+    <strong>Undergraduate Student</strong>
     <strong>Major: Mechanical Engineering</strong><br>
 	<br> <strong>Study Interests: </strong> programming, robotics, aerospace, vehicles
 	<br><a href="mailto: miguelworkacct06@tamu.edu">Email:  miguelworkacct06@tamu.edu</a>
   </div>
 </div>
 
+## Undergraduate Students
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/people/Luis_Jancowski.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
@@ -132,20 +163,23 @@ author_profile: false
   </div>
 </div>
 
+
+## Alumni
+### Graduate Students
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/people/Sofia_McGreger.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+    <img src="/images/people/Emily_Summers.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
-    <h3>Sofia McGreger</h3>
-    <strong>Major: MARS</strong><br>
-	<br> <strong>Study Interests: </strong> marine robots, water quality, ocean modeling, &sea level rise, flooding
-	<br><a href="mailto: sofiamcgreger@tamu.edu">Email:  sofiamcgreger@tamu.edu</a>
+    <h3>Emily Summers </h3>
+    <strong>Year in the lab: 2023-2024 </strong><br>
+    <strong>PhD student, Graduate in May 2024</strong><br>
+	<br> <strong>Research Interests: </strong> microplastic; coastal pollutant; particle tracking model
+	<br><a href="mailto:emilyjane1215@tamu.edu">Email: emilyjane1215@tamu.edu</a>
   </div>
 </div>
 
-
-## Alumni
+### Undergraduate Students
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
     <img src="/images/people/McKinsey_McClure.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
@@ -161,13 +195,13 @@ author_profile: false
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/people/Emily_Summers.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+    <img src="/images/people/Sofia_McGreger.jpg" alt="Undergraduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
-    <h3>Emily Summers </h3>
-    <strong>Year in the lab: 2023-2024 </strong><br>
-    <strong>PhD student, Graduate in May 2024</strong><br>
-	<br> <strong>Research Interests: </strong> microplastic; coastal pollutant; particle tracking model
-	<br><a href="mailto:emilyjane1215@tamu.edu">Email: emilyjane1215@tamu.edu</a>
+    <h3>Sofia McGreger</h3>
+    <strong>Year in the lab: 2025-2026 </strong><br>
+    <strong>Major: MARS</strong><br>
+	<br> <strong>Study Interests: </strong> marine robots, water quality, ocean modeling, &sea level rise, flooding
+	<br><a href="mailto: sofiamcgreger@tamu.edu">Email:  sofiamcgreger@tamu.edu</a>
   </div>
 </div>
