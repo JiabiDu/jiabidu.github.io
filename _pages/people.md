@@ -87,7 +87,7 @@ author_profile: false
 ## Summer of 2026
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/people/Michao_Shao.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
+    <img src="/images/people/Michael_Shao.jpg" alt="Graduate Student" style="border-radius: 10%; width: 300px; height: 400px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3>Michael Shao</h3>
